@@ -14,3 +14,5 @@
    - 从codeup获取变更请求diff
    - 利用大语言模型分析diff，生成审查报告
    - 将审查报告回写到gitlab变更请求中
+   - 效果预览
+   - ![img_2.png](img_2.png)
